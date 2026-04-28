@@ -1,3 +1,4 @@
+
 -- PARA QUE SERVE ##################################################################
 -- Servem para combinar colunas de uma ou mais tabelas
 
