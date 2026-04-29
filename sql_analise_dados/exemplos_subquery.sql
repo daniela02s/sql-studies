@@ -1,3 +1,4 @@
+
 -- EXEMPLOS ########################################################################
 
 -- (Exemplo 1) Análise de recorrência dos leads
